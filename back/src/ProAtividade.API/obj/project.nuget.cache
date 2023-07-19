@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLn5bXD67zNP0aDRORYNn1/M3bCzW3/kSA31l9/Kjg4eixVp11Tw4DQ+yVtXi6ySxGwH/1q4YQaQgkL/1i9lbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francisca.camila\\Repositorio\\react_web_api_ef\\back\\src\\ProAtividade.API\\ProAtividade.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\francisca.camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
